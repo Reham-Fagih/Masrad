@@ -19,11 +19,9 @@ The platform encourages users to contribute content and build a collective archi
 
 ---
 
-## Screenshots
-
+## Visual Overview
 <img src="masrad.png" width="100%"/>
-
-<br/><br/>
+<img src="masradprofile.png" width="100%"/>
 
 ---
 
