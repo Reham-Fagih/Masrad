@@ -20,10 +20,28 @@ The platform encourages users to contribute content and build a collective archi
 ---
 
 ## Visual Overview
+
 <img src="masrad.png" width="100%"/>
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
 <img src="post.png" width="100%"/>
+</td>
+<td width="50%">
 <img src="delete.png" width="100%"/>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
 <img src="display.png" width="100%"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
