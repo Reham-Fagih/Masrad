@@ -25,10 +25,6 @@ The platform encourages users to contribute content and build a collective archi
 
 <br/><br/>
 
-<img src="./screenshots/city-page.png" width="100%"/>
-
-> Replace these images with screenshots from your website.
-
 ---
 
 ## Features
